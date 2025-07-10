@@ -1,4 +1,4 @@
-#Simple Moving Average Strategy.ipynb
+# Simple Moving Average Strategy.ipynb
 
 # ==========================================
 # 1. Setup Environment
